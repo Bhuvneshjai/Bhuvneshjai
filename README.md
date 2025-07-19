@@ -63,7 +63,7 @@
   </a>
 </p>
 
-📞 **Phone:** +91-8979243823 
+📞 **Phone:** +91-8979243823 <br>
 ✉️ **Email:** bhuvneshjain232@gmail.com  
 
 ---
