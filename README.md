@@ -21,7 +21,7 @@
 
 ## 💼 Professional Experience
 
-### 🚀 Wipro – Associate Analyst 
+### 🚀 Wipro – Analyst 
 
 - Designed and executed end-to-end test plans for client-facing web applications.
 - Managed complete STLC including writing test scenarios, executing test cases, reporting bugs, and participating in sprint reviews.
