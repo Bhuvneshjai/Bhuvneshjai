@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhuvnesh Jain</h1>
 
 <p align="center">
-  👨‍💻 Data Scientist | 🧠 Data Analyst | 🧪 QA Engineer | 🤖 Software Developer 
+  👨‍💻 Data Scientist | 🧠 Data Analyst | 🧪 QA Engineer | 🤖 AI Engineer | 💻 Software Developer
+</p>
+
+<p align="center">
+  Passionate about solving real-world problems with AI, building intelligent systems, and turning data into impact.
 </p>
 
 ---
