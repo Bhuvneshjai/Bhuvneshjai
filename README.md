@@ -27,13 +27,16 @@
 
 ### 🚀 Wipro – Analyst 
 
-- Designed and executed end-to-end test plans for client-facing web applications.
-- Managed complete STLC including writing test scenarios, executing test cases, reporting bugs, and participating in sprint reviews.
-- Automated data validation and reporting processes, saving 50% manual effort.
-- Validated APIs and UI via internal tools.
-- Worked across 10+ healthcare clients in US-based operations, gathering requirements directly and implementing scalable test solutions using internal CMS tools.
-- Extracted and cleaned large volumes of healthcare data, enabling real-time content updates and improved dashboard accuracy.
-- Supported teams during AE cycles and led peer-level support for pods during resource constraints.
+- Configured and tested the CBA (Core Benefit Administration) platform to meet client-specific benefit requirements using internal tools and predefined rules.
+- Developed and executed detailed test plans and test cases for low to medium complexity projects, ensuring alignment with business logic and client expectations.
+- Analyzed client requirements and translated them into actionable system configuration tasks, including setting up tables, parameters, and business rules.
+- Collaborated with cross-functional teams to gather and clarify requirements, and ensured timely delivery of quality-assured configurations.
+- Troubleshot and resolved system issues, data mismatches, and defects by performing root cause analysis and implementing fixes.
+- Applied SDLC and STLC principles to deliver accurate testing documentation, from requirement analysis through defect closure.
+- Utilized query and validate database entries to ensure correctness of backend configurations and support testing efforts.
+- Participated in peer reviews, quality checkpoints, and knowledge transfer sessions for new team members and junior analysts.
+- Adapted quickly to shifting priorities and contributed to sprint planning and task estimation in an agile environment.
+- Maintained a high standard of documentation, including configuration guides, analysis documents, and post-implementation support notes.
 
 ### 📊 Innobyte Services – Data Analyst Intern  
 
