@@ -10,6 +10,9 @@
 
 ---
 
+# 💫 About Me:
+🔭 I’m currently working on<br>Building and enhancing in-house tools for data analysis, automation, testing, and reporting—while supporting client requirements and delivering reliable, end-to-end solutions.<br><br>👯 I’m looking to collaborate on<br>Data analytics, automation, ML projects, dashboards, and API-driven solutions that solve real-world business problems.<br><br>🤝 I’m looking for help with<br>Scaling analytics solutions, advanced ML/GenAI use cases, and improving production-ready data pipelines and APIs.<br><br>🌱 I’m currently learning<br>Continuously upgrading knowledge by exploring new technologies, modern practices, and emerging trends, while applying learnings through hands-on work.<br><br>💬 Ask me about<br>Turning complex problems into clear, structured outcomes, collaborating with stakeholders, and delivering quality-focused solutions.<br><br>⚡ Fun fact<br>Enjoy working at the intersection of data, automation, and business—and genuinely excited by challenges that turn messy data into meaningful insights 📊✨
+
 ## 🔧 Tech Stack & Tools
 
 - **Languages & Databases**: Python, MySQL  
@@ -76,5 +79,5 @@
 ---
 
 <p align="center">
-  🚀 Passionate about solving real-world problems through AI, automation, and insightful data analysis. Let’s connect and create impact!
+  🚀 Inspired by real problems and continuous learning, with a passion for building thoughtful solutions that create real value and lasting impact.
 </p>
