@@ -1,83 +1,293 @@
 <h1 align="center">Hi 👋, I'm Bhuvnesh Jain</h1>
 
-<p align="center">
-  👨‍💻 Data Scientist | 🧠 Data Analyst | 🧪 QA Engineer | 🤖 AI Engineer | 💻 Software Developer
-</p>
+<h3 align="center">🚀 Data Engineer | 📊 Data Analyst | 🏥 US Healthcare Benefits Domain Expert | 🐍 Python Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  Passionate about solving real-world problems with AI, building intelligent systems, and turning data into impact.
+Passionate about building scalable data solutions, automating workflows, and transforming complex business challenges into data-driven insights.
 </p>
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Building and enhancing in-house tools for data analysis, automation, testing, and reporting—while supporting client requirements and delivering reliable, end-to-end solutions.<br><br>👯 I’m looking to collaborate on<br>Data analytics, automation, ML projects, dashboards, and API-driven solutions that solve real-world business problems.<br><br>🤝 I’m looking for help with<br>Scaling analytics solutions, advanced ML/GenAI use cases, and improving production-ready data pipelines and APIs.<br><br>🌱 I’m currently learning<br>Continuously upgrading knowledge by exploring new technologies, modern practices, and emerging trends, while applying learnings through hands-on work.<br><br>💬 Ask me about<br>Turning complex problems into clear, structured outcomes, collaborating with stakeholders, and delivering quality-focused solutions.<br><br>⚡ Fun fact<br>Enjoy working at the intersection of data, automation, and business—and genuinely excited by challenges that turn messy data into meaningful insights 📊✨
+# 💫 About Me
 
-## 🔧 Tech Stack & Tools
+🔭 **Currently Working On**
 
-- **Languages & Databases**: Python, MySQL  
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Excel  
-- **Machine Learning & AI**: Scikit-learn, Supervised/Unsupervised Learning, Regression, Clustering  
-- **NLP**: Text Cleaning, Tokenization, Lemmatization, Sentiment Analysis  
-- **Testing**: Manual Testing, Automation, STLC, Test Case Design, Postman
-- **Web & Backend**: Flask, Web Scraping, Bootstrap  
-- **Project Tools**: Git, GitHub, Jira, Confluence  
-- **Enterprise Tools**: LifeRay, UCE, Control Center, PDM, MSS, DTM
+Building and supporting enterprise-scale US Healthcare Benefits Administration solutions while enhancing expertise in Data Engineering, Data Analytics, Cloud Technologies, and AI-driven applications.
+
+👯 **Looking to Collaborate On**
+
+* Data Engineering Projects
+* ETL Pipeline Development
+* Data Analytics Solutions
+* Python Automation Projects
+* Machine Learning Applications
+* Generative AI Solutions
+
+🤝 **Looking for Help With**
+
+* Azure Databricks
+* Apache Spark
+* Cloud Data Engineering
+* Production-Grade Data Pipelines
+* Data Warehousing Solutions
+
+🌱 **Currently Learning**
+
+* Azure Databricks
+* Apache Spark
+* Data Engineering Best Practices
+* Cloud Technologies
+* Advanced SQL
+* Generative AI Applications
+
+💬 **Ask Me About**
+
+* Python
+* SQL
+* Data Analysis
+* ETL Concepts
+* Data Validation
+* Healthcare Benefits Administration
+* Functional Testing
+* Root Cause Analysis
+* Process Automation
+
+⚡ **Fun Fact**
+
+I enjoy solving business problems through data and continuously learning technologies that improve efficiency, scalability, and decision-making.
 
 ---
 
-## 💼 Professional Experience
+# 🏥 Domain Expertise
 
-### 🚀 Wipro – Analyst 
+### US Healthcare Benefits Administration
 
-- Configured and tested the CBA (Core Benefit Administration) platform to meet client-specific benefit requirements using internal tools and predefined rules.
-- Developed and executed detailed test plans and test cases for low to medium complexity projects, ensuring alignment with business logic and client expectations.
-- Analyzed client requirements and translated them into actionable system configuration tasks, including setting up tables, parameters, and business rules.
-- Collaborated with cross-functional teams to gather and clarify requirements, and ensured timely delivery of quality-assured configurations.
-- Troubleshot and resolved system issues, data mismatches, and defects by performing root cause analysis and implementing fixes.
-- Applied SDLC and STLC principles to deliver accurate testing documentation, from requirement analysis through defect closure.
-- Utilized query and validate database entries to ensure correctness of backend configurations and support testing efforts.
-- Participated in peer reviews, quality checkpoints, and knowledge transfer sessions for new team members and junior analysts.
-- Adapted quickly to shifting priorities and contributed to sprint planning and task estimation in an agile environment.
-- Maintained a high standard of documentation, including configuration guides, analysis documents, and post-implementation support notes.
+* Health & Welfare Benefits Administration
+* Eligibility Management
+* Enrollment Lifecycle Management
+* Benefits Configuration
+* Payroll Integration
+* HSA/FSA Administration
+* COBRA Administration
+* ACA Compliance Support
+* Contribution & Rate Management
+* Data Reconciliation
+* Benefits Testing & Validation
+* Production Support & Issue Resolution
 
-### 📊 Innobyte Services – Data Analyst Intern  
+### Business & Functional Expertise
 
-- Cleaned and prepared unstructured customer data for segmentation and visualization.
-- Built actionable insights using Python and Excel, helping marketing and sales teams make data-driven decisions.
-- Assisted in developing predictive models to forecast customer churn and behavioral trends.
-- Worked closely with stakeholders to align data output with business goals.
-
----
-
-## 🏆 Achievements
-
-- 🥇 Ranked **11th** out of 1000+ participants in the **Xpheno Frontend Challenge**
-- 🏅 Recognized in **Internal Smart Hackathon** for creative automation solutions
-- 🏆 Repeatedly appreciated by US-based clients for timely delivery, detailed validation, and ownership
-- 🧠 Volunteered across teams to assist in cross-pod task execution and tool efficiency improvements
+* Requirement Gathering & Analysis
+* Functional Specification Documentation
+* Stakeholder Communication
+* Root Cause Analysis (RCA)
+* Defect Management
+* Process Improvement
+* SDLC & STLC
+* UAT & System Testing
+* Client Implementation Support
 
 ---
 
-## 📫 Connect with Me
+# 🛠️ Enterprise Platforms & Tools
 
-<p align="left">
-  <a href="mailto:bhuvneshjain232@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/bhuvnesh-jain-2b7a251bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Bhuvneshjai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+### Benefits Administration Platforms
+
+* Alight Worklife
+* Core Benefits Administration (CBA)
+* LifeRay
+* Unified Control Expression (UCE)
+* Control Center
+* Manager Self Service (MSS)
+* Postal Delivery Manager (PDM)
+* Data Transfer Manager (DTM)
+* Rapid Implementation
+* ACA Bot
+* Prueba
+
+### Collaboration & Tracking Tools
+
+* Jira
+* Confluence
+* Git
+* GitHub
+* Postman
+
+---
+
+# 🔧 Technical Skills
+
+### Programming & Querying
+
+* Python
+* SQL
+
+### Data Engineering
+
+* ETL Pipelines
+* Data Processing
+* Data Transformation
+* Data Validation
+* Data Quality Checks
+* Data Reconciliation
+* Data Modeling (Basic)
+
+### Big Data & Cloud
+
+* Databricks
+* Apache Spark (Basic)
+* Cloud Data Platforms
+* Azure Databricks (Learning)
+
+### Data Analytics
+
+* Pandas
+* NumPy
+* Excel
+* Exploratory Data Analysis (EDA)
+* Reporting & Visualization
+
+### AI & Machine Learning
+
+* Machine Learning Fundamentals
+* Generative AI
+* Prompt Engineering
+* LLM Applications
+
+### Testing & Quality Assurance
+
+* Functional Testing
+* Test Case Design
+* Defect Analysis
+* Root Cause Analysis
+* STLC
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Wipro | Analyst
+
+**Aug 2025 – Present**
+
+* Lead end-to-end implementation and administration of US Health & Welfare benefit programs for 10+ clients.
+* Configure eligibility rules, enrollment workflows, contribution structures, payroll integrations, and benefits plans.
+* Gather business requirements and translate them into functional specifications and system configurations.
+* Execute validation, functional testing, UAT, defect analysis, and issue resolution activities.
+* Perform root cause analysis and manage production support escalations.
+* Drive process improvements to enhance operational efficiency and service delivery.
+
+## 📈 Wipro | Associate Analyst
+
+**Mar 2024 – Jul 2025**
+
+* Supported healthcare benefits operations and system enhancements.
+* Conducted data reconciliation, report verification, and testing activities.
+* Assisted with defect tracking and issue resolution.
+* Collaborated with business and technical teams to ensure service excellence.
+
+## 🎓 Wipro | Trainee
+
+**Sep 2023 – Feb 2024**
+
+* Assisted in benefits administration operations.
+* Supported data audits, transaction processing, and reconciliation activities.
+* Gained hands-on experience with healthcare enrollment and participant lifecycle processes.
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 911 Calls Data Analysis
+
+**Tech Stack:** Python, Pandas, NumPy, SQL, Matplotlib
+
+* Performed data cleaning and exploratory data analysis.
+* Identified call volume trends and peak activity periods.
+* Generated actionable insights using visualization techniques.
+
+---
+
+## 🤖 Generative AI Knowledge Assistant
+
+**Tech Stack:** Python, LLMs, Prompt Engineering
+
+* Developed an AI-powered document summarization solution.
+* Implemented prompt optimization techniques.
+* Improved knowledge retrieval and user experience.
+
+---
+
+## ⚙️ Data Consistency & Benefits Personalization
+
+**Tech Stack:** Alight Worklife Platform, Configuration, Validation Testing
+
+* Implemented dynamic configuration logic for personalized benefits experiences.
+* Enhanced data visibility through configuration and testing.
+* Validated functionality and resolved defects.
+
+---
+
+## 🔨 RetroPad Build123d
+
+**Tech Stack:** Python, Build123d, CAD Automation
+
+* Developed parametric CAD models using Python and Build123d.
+* Automated design generation workflows.
+* Explored programmatic 3D modeling concepts and reusable CAD components.
+
+---
+
+# 🏆 Certifications
+
+✅ Databricks Certified Data Engineer Associate
+
+✅ OCI 2025 Certified Generative AI Professional – Oracle
+
+✅ OCI 2025 Certified AI Foundations Associate – Oracle
+
+✅ Deloitte Data Analytics Virtual Experience – Forage
+
+---
+
+# 🏅 Achievements
+
+🏆 Appreciation Certificate for Outstanding Performance at Wipro
+
+🏆 Successfully delivered critical healthcare benefit implementations for multiple US clients
+
+🏆 Recognized for ownership, quality assurance, and process improvement initiatives
+
+---
+
+# 🎓 Education
+
+**Bachelor of Technology (Computer Science & Engineering)**
+
+Teerthanker Mahaveer University
+
+2019 – 2023
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **[bhuvneshjain232@gmail.com](mailto:bhuvneshjain232@gmail.com)**
+
+💼 LinkedIn: **https://www.linkedin.com/in/bhuvnesh-jain-2b7a251bb/**
+
+💻 GitHub: **https://github.com/Bhuvneshjai**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvneshjai&show_icons=true&theme=tokyonight" />
 </p>
-
-📞 **Phone:** +91-8979243823 <br>
-✉️ **Email:** bhuvneshjain232@gmail.com  
 
 ---
 
 <p align="center">
-  🚀 Inspired by real problems and continuous learning, with a passion for building thoughtful solutions that create real value and lasting impact.
+🚀 Transforming Data into Insights • Insights into Decisions • Decisions into Impact
 </p>
