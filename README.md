@@ -280,14 +280,6 @@ Teerthanker Mahaveer University
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvneshjai&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
 🚀 Transforming Data into Insights • Insights into Decisions • Decisions into Impact
 </p>
